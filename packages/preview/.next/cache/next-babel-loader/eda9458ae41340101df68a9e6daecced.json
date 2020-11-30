@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from \"react\";\nexport default function Container(_ref) {\n  var children = _ref.children,\n      title = _ref.title;\n  return __jsx(\"div\", {\n    className: \"p3\"\n  }, __jsx(\"h1\", {\n    className: \"main\"\n  }, title), children);\n}","map":null,"metadata":{},"sourceType":"module"}

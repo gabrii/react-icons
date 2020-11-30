@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as RiLib from \"react-icons/lib\";\nexport var ALL_ICONS = RiLib[\"IconsManifest\"];\nexport var getIconById = function getIconById(id) {\n  return ALL_ICONS.find(function (i) {\n    return i.id === id;\n  });\n};","map":null,"metadata":{},"sourceType":"module"}
